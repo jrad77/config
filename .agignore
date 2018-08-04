@@ -1,0 +1,8 @@
+tags
+build/
+*.html
+*.eps
+*.svg
+*.pgm
+*.pem
+*.pyc
